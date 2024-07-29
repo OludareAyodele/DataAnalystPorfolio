@@ -19,7 +19,7 @@ In the initial data preparation phase, we performed the following;
 2. Handling missing values
 3. Data Cleaning and Formatting
 
- ## Business Questoins 
+ ## Business Questions 
  1. 	What is the overall churn rate of the customers.
  2. 	What is the satisfaction rate of customers that complained.
  3. 	Are there any patterns or trends in the data that indicate certain customer segments are more likely to churn than others?.
@@ -29,4 +29,4 @@ In the initial data preparation phase, we performed the following;
 ## Recommendations
 1. I recommend diving into the root causes of customers complains and how well their complains was treated.
 2. Focus on improving customer satisfaction by implementing customer first strategies and customer engagement intiatives to boost customers satisfaction and retention.
-3. Encouraging long and medium term customers to have more than single produt.
+3. Encouraging long and medium term customers to have more than single prodcut.
