@@ -1,4 +1,4 @@
-#** Hotel Reservation Analysis**
+# **Hotel Reservation Analysis**
 ## Project Overview
 The Hotel Reservation Analysis aims to understand booking patterns, pricing strategies, and customer preferences by analysing various factors such as booking status, lead time, parking space requirements, average room prices, market segments, and arrival months. This analysis will help hotel managers and marketers develop better pricing strategies, optimize room occupancy, and enhance customer satisfaction.
 ## Objectives
